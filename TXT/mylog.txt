@@ -11,4 +11,12 @@ ZCZC W00 20 L05 QUIZ Week 00.
 ZCZC W00 15 L41 TXT/mylog.txt related.
 ZCZC W00 60 L10 Assignment #00
 ZCZC W00 750 L70 Studying for other courses.
+ZCZC W01 200 L02 CLASSROOM related.
+ZCZC W01 20 L05 QUIZ Week 01.
+ZCZC W01 150 L11 Assignment #01
+ZCZC W01 10 L03 GitHub related.
+ZCZC W01 10 L41 TXT/mylog.txt related.
+ZCZC W01 20 L01 Scele related.
+
+
 
