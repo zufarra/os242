@@ -1,4 +1,4 @@
 #zufarra
-[LOG](https://zufarra.github.io/os242/TXT/mylog.txt)
-[GH](https://github.com/zufarra/os242)
-[LINKS](LINKS/)
+
+
+[TIPS](TIPS/){:target="_blank"} --- [LINKS](LINKS/){:target="_blank"} --- [LOG](TXT/mylog.txt){:target="_blank"} --- [GitHub](https://github.com/cbkadal/os242/){:target="_blank"}
