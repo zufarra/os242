@@ -17,6 +17,19 @@ ZCZC W01 150 L11 Assignment #01
 ZCZC W01 10 L03 GitHub related.
 ZCZC W01 10 L41 TXT/mylog.txt related.
 ZCZC W01 20 L01 Scele related.
+ZCZC W02 100 L02 CLASSROOM related.
+ZCZC W02 20 L05 QUIZ Week 02.
+ZCZC W02 150 L12 Assignment #02
+ZCZC W02 10 L03 GitHub related.
+ZCZC W02 10 L41 TXT/mylog.txt related.
+ZCZC W02 20 L01 Scele related.
+ZCZC W02 750 L70 Studying for other courses.
+
+
+
+
+
+
 
 
 
