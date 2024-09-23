@@ -1,6 +1,26 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
+
+ZCZC W03 200 L02 CLASSROOM related.
+ZCZC W03 150 L13 Assignment #03
+ZCZC W03 10 L03 GitHub related.
+ZCZC W03 10 L41 TXT/mylog.txt related.
+ZCZC W03 20 L01 Scele related.
+ZCZC W03 750 L70 Studying for other courses.
+ZCZC W02 100 L02 CLASSROOM related.
+ZCZC W02 20 L05 QUIZ Week 02.
+ZCZC W02 150 L12 Assignment #02
+ZCZC W02 10 L03 GitHub related.
+ZCZC W02 10 L41 TXT/mylog.txt related.
+ZCZC W02 20 L01 Scele related.
+ZCZC W02 750 L70 Studying for other courses.
+ZCZC W01 200 L02 CLASSROOM related.
+ZCZC W01 20 L05 QUIZ Week 01.
+ZCZC W01 150 L11 Assignment #01
+ZCZC W01 10 L03 GitHub related.
+ZCZC W01 10 L41 TXT/mylog.txt related.
+ZCZC W01 20 L01 Scele related.
 ZCZC W00 10 L03 GitHub related.
 ZCZC W00 10 L41 TXT/mylog.txt related.
 ZCZC W00 10 L04 GitHub Pages related.
@@ -11,19 +31,6 @@ ZCZC W00 20 L05 QUIZ Week 00.
 ZCZC W00 15 L41 TXT/mylog.txt related.
 ZCZC W00 60 L10 Assignment #00
 ZCZC W00 750 L70 Studying for other courses.
-ZCZC W01 200 L02 CLASSROOM related.
-ZCZC W01 20 L05 QUIZ Week 01.
-ZCZC W01 150 L11 Assignment #01
-ZCZC W01 10 L03 GitHub related.
-ZCZC W01 10 L41 TXT/mylog.txt related.
-ZCZC W01 20 L01 Scele related.
-ZCZC W02 100 L02 CLASSROOM related.
-ZCZC W02 20 L05 QUIZ Week 02.
-ZCZC W02 150 L12 Assignment #02
-ZCZC W02 10 L03 GitHub related.
-ZCZC W02 10 L41 TXT/mylog.txt related.
-ZCZC W02 20 L01 Scele related.
-ZCZC W02 750 L70 Studying for other courses.
 
 
 
