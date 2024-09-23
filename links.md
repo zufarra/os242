@@ -12,9 +12,15 @@ permalink: LINKS/
   This site contains links to log codes for you to update log.txt.
 * [Slides Week 0](https://docos.vlsm.org/Slides/os00.pdf){:target="_blank"} ---
   This site contains links to slide of week-0
-* [MIDTERM Week 0](https://rms46.vlsm.org/2/195.pdf){:target="_blank"} ---
+* [Exam Week 0](https://rms46.vlsm.org/2/195.pdf){:target="_blank"} ---
   This site contains links to overview of week-0
 * [Slides Week 1](https://docos.vlsm.org/Slides/os01.pdf){:target="_blank"} ---
   This site contains links to slide of week-1
-* [MIDTERM Week 1](https://rms46.vlsm.org/2/196.pdf){:target="_blank"} ---
+* [Exam Week 1](https://rms46.vlsm.org/2/196.pdf){:target="_blank"} ---
   This site contains links to overview of week-1
+* [Slides Week 2](https://docos.vlsm.org/Slides/os02.pdf){:target="_blank"} ---
+  This site contains links to slide of week-2
+* [Exam Week 2](https://rms46.vlsm.org/2/197.pdf){:target="_blank"} ---
+  This site contains links to overview of week-2
+* [Slides Week 3](https://docos.vlsm.org/Slides/os03.pdf){:target="_blank"} ---
+  This site contains links to slide of week-2
