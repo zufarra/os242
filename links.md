@@ -23,4 +23,12 @@ permalink: LINKS/
 * [Exam Week 2](https://rms46.vlsm.org/2/197.pdf){:target="_blank"} ---
   This site contains links to overview of week-2
 * [Slides Week 3](https://docos.vlsm.org/Slides/os03.pdf){:target="_blank"} ---
-  This site contains links to slide of week-2
+  This site contains links to slide of week-3
+* [Exam Week 3](https://rms46.vlsm.org/2/198.pdf){:target="_blank"} ---
+  This site contains links to overview of week-3
+* [Slides Week 4](https://docos.vlsm.org/Slides/os04.pdf){:target="_blank"} ---
+  This site contains links to slide of week-4
+* [Exam Week 4](https://rms46.vlsm.org/2/199.pdf){:target="_blank"} ---
+  This site contains links to overview of week-4
+  
+  
