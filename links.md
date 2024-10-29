@@ -36,5 +36,12 @@ permalink: LINKS/
   This site contains links to overview of week-5
 * [Slides Week 6](https://docos.vlsm.org/Slides/os06.pdf){:target="_blank"} ---
   This site contains links to slide of week-6
+* [Exam Week 6](https://rms46.vlsm.org/2/201.pdf){:target="_blank"} ---
+  This site contains links to overview of week-6
+* [Slides Week 7](https://docos.vlsm.org/Slides/os07.pdf){:target="_blank"} ---
+  This site contains links to slide of week-7
+* [Exam Week 7](https://rms46.vlsm.org/2/202.pdf){:target="_blank"} ---
+  This site contains links to overview of week-7
+
   
   
