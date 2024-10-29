@@ -2,6 +2,12 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
 
+ZCZC W06 100 L02 CLASSROOM related.
+ZCZC W06 150 L16 Assignment #06
+ZCZC W06 10 L03 GitHub related.
+ZCZC W06 10 L41 TXT/mylog.txt related.
+ZCZC W06 20 L01 Scele related.
+ZCZC W06 750 L70 Studying for other courses.
 ZCZC W05 20 L05 QUIZ Week 04.
 ZCZC W05 200 L02 CLASSROOM related.
 ZCZC W05 150 L15 Assignment #05
