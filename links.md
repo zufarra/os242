@@ -54,7 +54,14 @@ permalink: LINKS/
   This site contains links to slide of week-10
 * [Exam Week 10](https://rms46.vlsm.org/2/205.pdf){:target="_blank"} ---
   This site contains links to overview of week-10
-  
+* [MIDTERM W05 2017](https://rms46.vlsm.org/2/223.pdf){:target="_blank"} ---
+  This site contains links to MIDTERM W05 2017
+* [MIDTERM FORK 2011](https://rms46.vlsm.org/2/232.pdf){:target="_blank"} ---
+  This site contains links to MIDTERM FORK 2011
+* [GITHUB CBKADAL(REFERENCES)](https://github.com/cbkadal/os242/){:target="_blank"} ---
+  This site contains links to github of cbkadal
+
+
   
 
 
