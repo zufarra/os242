@@ -60,7 +60,12 @@ permalink: LINKS/
   This site contains links to MIDTERM FORK 2011
 * [GITHUB CBKADAL(REFERENCES)](https://github.com/cbkadal/os242/){:target="_blank"} ---
   This site contains links to github of cbkadal
-
+* [Slides Operating Systems Concepts](https://codex.cs.yale.edu/avi/os-book/OS10/slide-dir/){:target="_blank"} ---
+  This site contains slides operating systems concepts
+* [Report of OS242](https://os.vlsm.org/Log/){:target="_blank"} ---
+  This site contains links to report of OS242
+* [SCELE OS242](https://scele.cs.ui.ac.id/course/view.php?id=3841){:target="_blank"} ---
+  This site contains links to SCELE OS242
 
   
 
